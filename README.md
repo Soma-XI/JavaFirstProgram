@@ -1,2 +1,2 @@
 # JavaFirstProgram
-OB Oriented Programming Test
+OBJ Oriented Programming Test
